@@ -1,0 +1,26 @@
+User Account :
+-Super Admin
+ username : superadmin
+ password : qwerty123
+
+-Admin
+ username : admin
+ password : admin01
+
+-Kepala
+ username : kepala
+ password : kepala01
+
+-Teknisi
+ (-) Dimas Dwi Kurniawan
+     username : dimas.teknisi
+     password : teknisi2021
+
+ (-) Muhammad Fadhli Dzil Ikram Pohan 
+     username : fadhli.teknisi
+     password : teknisi2021
+
+ (-) Septian Hadinata
+     username : septian.teknisi
+     password : teknisi2021
+    
